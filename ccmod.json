@@ -1,0 +1,6 @@
+{
+  "id": "pixel-size-increase",
+  "version": "0.1.0",
+  "title": "Pixel size increase",
+  "prestart": "prestart.js"
+}
